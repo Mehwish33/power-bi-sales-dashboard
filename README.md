@@ -16,6 +16,7 @@ Profitability Analysis: Utilized a scatter plot to analyze the relationship betw
 Interactive Filtering: Incorporated slicers for Product Category and Product Sub-Category, allowing users to dynamically filter data and focus on specific areas of interest.
 
 # Dashboard:
-(https://github.com/user-attachments/assets/dbe1991c-f16b-4c1c-9526-99d850ca0874)
+![sales dashboard](https://github.com/user-attachments/assets/5b94d4fc-bef5-4755-901f-8fdcfd1497d5)
+
 
 
